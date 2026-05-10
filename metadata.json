@@ -1,0 +1,6 @@
+{
+  "name": "TokenViz",
+  "description": "Interactive NLP tokenizer visualizer with animated, audience-adaptive explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
